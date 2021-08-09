@@ -2,18 +2,17 @@
 
 
 
-Projeto realizado nos dias 02 a 05 de Agosto de 2021. Com Kenzie Academy Brasil. Curso de 10 horas de HTML e CSS.
+<p align="center">Projeto realizado nos dias 02 a 05 de Agosto de 2021. Com Kenzie Academy Brasil. Curso de 10 horas de HTML e CSS.</p>
+<h2 align="center"> 🖥️ Layout Web: <h2><h2>
+  
+<p><img src="https://github.com/juliabb/projeto-Instagram/blob/main/assets/layout/instagram-parte-1-web.PNG?raw=true" alt="Layout web 1"></p>
 
-Layout Web: 
+<p align="center"><img src="https://github.com/juliabb/projeto-Instagram/blob/main/assets/layout/instagram-parte-2-web.PNG?raw=true" alt="Layout web 2"></p>
 
-[Web parte 1](./assets/layout/instagram-parte-1-web.png)
+<h2 align="center"> 📱 Layout Mobile:<h2>
 
-[Web parte 2](./assets/layout/instagram-parte-2-web.png)
+<p align="center"><img src="https://github.com/juliabb/projeto-Instagram/blob/main/assets/layout/instagram-1-mobile.PNG?raw=true" alt="Layout mobile 1"></p>
 
-Layout Mobile: 
-
-[Mobile parte 1](./assets/layout/instagram-1-mobile.png)
-
-[Mobile parte 2](./assets/layout/instagram-2-mobile.png)
+<p align="center"><img src="https://github.com/juliabb/projeto-Instagram/blob/main/assets/layout/instagram-2-mobile.PNG?raw=true" alt="Layout mobile 2"></p>
 
 <p align="center"><a href="https://octodex.github.com/femalecodertocat/" target="_blank"> <img src="https://octodex.github.com/images/femalecodertocat.png" alt="Femalecodertocat" width="250" height="250"></a></p>
