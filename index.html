@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instagram</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;1,100;1,300;1,400&display=swap"
+        rel="stylesheet">
+    <link rel="shortcut icon" href="assets/imagens/icon-insta.png" type="image/x-icon">
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <div class="linha">
+                <div class="linha__coluna linha__coluna--esquerda">
+                    <a href="#">
+                        <figure>
+                            <img src="assets/imagens/logo-instagram.png" alt="Logo Instagram">
+                            <figcaption class="hidden">Logo Instagram</figcaption>
+                        </figure>
+                    </a>
+                </div>
+                <div class="barra-busca">
+                    <input type="text" placeholder="Pesquisar" class="pesquisa">
+                </div>
+
+                <div class="linha__coluna linha__coluna--direita">
+                    <ul>
+                        <li>
+                            <a href="#"><img src="./assets/imagens/home.svg" alt="Icone home"></a>
+                        </li>
+                        <li>
+                            <a href="#"><img src="./assets/imagens/message.svg" alt="Icone mensagem"></a>
+                        </li>
+                        <li>
+                            <a href="#"><img src="./assets/imagens/explore.svg" alt="Icone explore"></a>
+                        </li>
+                        <li>
+                            <a href="#"><img src="./assets/imagens/notification.svg" alt="Icone notificações"></a>
+                        </li>
+                        <li>
+                            <a href="#"><img src="assets/imagens/perfil-mini.png" alt="Icone perfil"></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <article>
+            <div class="container">
+                <section class="secaoSobreUsuario">
+                    <div class="linha">
+                        <div class="linha__coluna linha__coluna--esquerda">
+                            <figure>
+                                <img src="./assets/imagens/profile-pic.png" alt="Foto perfil usuário" class="foto-perfil">
+                                <figcaption class="hidden">Foto perfil usuário</figcaption>
+                            </figure>
+                        </div>
+                        <div class="linha__coluna linha__coluna--direita">
+                            <article class="sobreUsuario">
+                                <div class="sobreUsuario__nome">
+                                    <h2>jubenedicto</h2>
+                                    <button>Enviar mensagem</button>
+                                </div>
+                                <div class="sobreUsuario__seguidores">
+                                    <ul>
+                                        <li>
+                                            <a href="#">
+                                                <strong>76</strong> publicações
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#">
+                                                <strong>272</strong> seguidores
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#">
+                                                <strong>349</strong> seguindo
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="sobreUsuario__descricao">
+                                    <h3>Julia</h3>
+                                    <p>Olá, tenho 21 anos, sou estudante de desenvolvimento web, atualmente arriscando
+                                        HTML,CSS e JS</p>
+                                    <p><a href="https://github.com/juliabb">github.com/juliabb</a></p>
+                                </div>
+                            </article>
+                        </div>
+                    </div>
+                </section>
+
+                <section class="secaoDestaquesUsuario">
+                    <ul>
+                        <li>
+                            <figure>
+                                <img src="assets/imagens/destaque-1.png" alt="Imagem destaque">
+                                <figcaption class="hidden">Edições</figcaption>
+                            </figure>
+                            <h3>Edições</h3>
+                        </li>
+                        <li>
+                            <figure>
+                                <img src="assets/imagens/destaque-2.png" alt="Imagem destaque">
+                                <figcaption class="hidden">Playlist</figcaption>
+                            </figure>
+                            <h3>Playlist</h3>
+                        </li>
+                        <li>
+                            <figure>
+                                <img src="assets/imagens/destaque-3.png" alt="Imagem destaque">
+                                <figcaption class="hidden">Layouts</figcaption>
+                            </figure>
+                            <h3>Layouts</h3>
+                        </li>
+                        <li>
+                            <figure>
+                                <img src="assets/imagens/destaque-4.png" alt="Imagem destaque">
+                                <figcaption class="hidden">Repositório</figcaption>
+                            </figure>
+                            <h3>Repositório</h3>
+                        </li>
+                        <li>
+                            <figure>
+                                <img src="assets/imagens/destaque-5.png" alt="Imagem destaque">
+                                <figcaption class="hidden">Cachorras</figcaption>
+                            </figure>
+                            <h3>Cachorras</h3>
+                        </li>
+                        <li>
+                            <figure>
+                                <img src="assets/imagens/destaque-6.png" alt="Imagem destaque">
+                                <figcaption class="hidden">Ideias</figcaption>
+                            </figure>
+                            <h3>Ideias</h3>
+                        </li>
+                        <li>
+                            <figure>
+                                <img src="assets/imagens/destaque-7.png" alt="Imagem destaque">
+                                <figcaption class="hidden">Livros</figcaption>
+                            </figure>
+                            <h3>Livros</h3>
+                        </li>
+                    </ul>
+                </section>
+
+                <section class="feed">
+
+                    <nav>
+                        <ul class="feed__menu">
+                            <li class="ativo">
+                                <img src="assets/imagens/posts.svg" alt="icone Publicações">
+                                <a href="#">PUBLICAÇÕES</a>
+                            </li>
+                            <li>
+                                <img src="assets/imagens/reels.svg" alt="icone REELS">
+                                <a href="#"><span>REELS</span></a>
+                            </li>
+                            <li>
+                                <img src="assets/imagens/videos.svg" alt="icone Vídeos">
+                                <a href="#"><span>VÍDEOS</span></a>
+                            </li>
+                            <li>
+                                <img src="assets/imagens/marcados.svg" alt="icone Marcados">
+                                <a href="#"><span>MARCADOS</span></a>
+                            </li>
+                        </ul>
+                    </nav>
+
+                    <div class="feed__galeria">
+                        <ul>
+                            <li>
+                                <figure>
+                                    <img src="assets/imagens/post-1.png" alt="Julia em Octodex">
+                                    <figcaption class="hidden"></figcaption>
+                                </figure>
+                            </li>
+
+                            <li>
+                                <figure>
+                                    <img src="assets/imagens/post-2.png" alt="HTML5">
+                                    <figcaption class="hidden"></figcaption>
+                                </figure>
+                            </li>
+
+                            <li>
+                                <figure>
+                                    <img src="assets/imagens/post-3.png" alt="Cachorra Julie">
+                                    <figcaption class="hidden"></figcaption>
+                                </figure>
+                            </li>
+
+                            <li>
+                                <figure>
+                                    <img src="assets/imagens/post-4.png" alt="CSS3">
+                                    <figcaption class="hidden"></figcaption>
+                                </figure>
+                            </li>
+
+                            <li>
+                                <figure>
+                                    <img src="assets/imagens/post-5.png" alt="Cachorra Luiza">
+                                    <figcaption class="hidden"></figcaption>
+                                </figure>
+                            </li>
+
+                            <li>
+                                <figure>
+                                    <img src="assets/imagens/post-6.png" alt="JavaScript">
+                                    <figcaption class="hidden"></figcaption>
+                                </figure>
+                            </li>
+
+                        </ul>
+                    </div>
+
+                </section>
+            </div>
+        </article>
+    </main>
+</body>
+
+</html>
