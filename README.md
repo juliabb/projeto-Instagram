@@ -3,6 +3,7 @@
 
 
 <p align="center">Projeto realizado nos dias 02 a 05 de Agosto de 2021. Com Kenzie Academy Brasil. Curso de 10 horas de HTML e CSS.</p>
+<p  align="center"> Você pode testar o site <a href="https://juliabb.github.io/projeto-Instagram/">clicando aqui</a></p>
 <h2 align="center"> 🖥️ Layout Web: <h2><h2>
   
 <p><img src="https://github.com/juliabb/projeto-Instagram/blob/main/assets/layout/instagram-parte-1-web.PNG?raw=true" alt="Layout web 1"></p>
