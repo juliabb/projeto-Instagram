@@ -6,14 +6,10 @@
 <p  align="center"> Você pode testar o site <a href="https://juliabb.github.io/projeto-Instagram/">clicando aqui</a></p>
 <h2 align="center"> 🖥️ Layout Web: <h2><h2>
   
-<p><img src="https://github.com/juliabb/projeto-Instagram/blob/main/assets/layout/instagram-parte-1-web.PNG?raw=true" alt="Layout web 1"></p>
-
-<p align="center"><img src="https://github.com/juliabb/projeto-Instagram/blob/main/assets/layout/instagram-parte-2-web.PNG?raw=true" alt="Layout web 2"></p>
+<p><img src="https://github.com/juliabb/projeto-Instagram/blob/main/assets/layout/web.png?raw=true" alt="Layout web"></p>
 
 <h2 align="center"> 📱 Layout Mobile:<h2>
 
-<p align="center"><img src="https://github.com/juliabb/projeto-Instagram/blob/main/assets/layout/instagram-1-mobile.PNG?raw=true" alt="Layout mobile 1"></p>
-
-<p align="center"><img src="https://github.com/juliabb/projeto-Instagram/blob/main/assets/layout/instagram-2-mobile.PNG?raw=true" alt="Layout mobile 2"></p>
+<p align="center"><img src="https://github.com/juliabb/projeto-Instagram/blob/main/assets/layout/mobile.png?raw=true" alt="Layout mobile 1"></p>
 
 <p align="center"><a href="https://octodex.github.com/femalecodertocat/" target="_blank"> <img src="https://octodex.github.com/images/femalecodertocat.png" alt="Femalecodertocat" width="250" height="250"></a></p>
