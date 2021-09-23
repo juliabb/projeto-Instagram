@@ -12,4 +12,4 @@
 
 <p align="center"><img src="https://github.com/juliabb/projeto-Instagram/blob/main/assets/layout/mobile.png?raw=true" alt="Layout mobile 1"></p>
 
-<p align="center"><a href="https://octodex.github.com/femalecodertocat/" target="_blank"> <img src="https://octodex.github.com/images/femalecodertocat.png" alt="Femalecodertocat" width="250" height="250"></a></p>
+<p align="center"><a href="https://myoctocat.com/" target="_blank"> <img src="https://github.com/juliabb/juliabb/blob/main/my-octocat-1632426748808.png?raw=true" alt="Femalecodertocat" width="250" height="250"></a></p>
